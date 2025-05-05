@@ -11,10 +11,10 @@ with open("Readme.md", encoding="utf-8") as f:
 setup(
     name="softwareai_engine_library",
     version="1.0.21",
-    description="O motor da biblioteca é liberado através do pip para a sincronia do motor em múltiplos agentes",
+    description="O pacote python da biblioteca é liberado através do pip",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="ualerson",
+    author="ualers2",
     author_email="mediacutsstudio@gmail.com",
     url="https://github.com/SoftwareAI-Company/SoftwareAI",
     license="Apache-2.0",
