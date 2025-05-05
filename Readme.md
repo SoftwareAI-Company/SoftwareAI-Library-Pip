@@ -1,25 +1,17 @@
 # 👥 Specialized AI Agents for Every Coding Task
 ### Boost your development workflow with AI assistants trained specifically for code documentation, refactoring, reviews, and more.
 ![Version](https://img.shields.io/badge/version-1.0.19-blue)
-![Status](https://img.shields.io/badge/status-RC-yellow)
-![License](https://img.shields.io/badge/license-Apache-green)
-# 📜 Table of Contents
-- [📖 SoftwareAI](https://github.com/SoftwareAI-Company/SoftwareAI)
+- [📖 SoftwareAI Repository](https://github.com/SoftwareAI-Company/SoftwareAI)
+- [📖 Library Web](https://github.com/SoftwareAI-Company/SoftwareAI)
 
-### Release v1.0.19
-#### objetivo alcançado: Funcoes da biblioteca 100% operacionais para agentes construidos com o sdk de agentes openai
 
-- [x] https://softwareai-library-hub.rshare.io/tools: agora é possivel ver o codigo fonte da function tool ao clickar em `View function tool and metadata`
-- [x] https://softwareai-library-hub.rshare.io/tools: ajustado o metadata 
-
-- [x] softwareai_engine_library: agora é possivel buscar as funcoes disponiveis atraves de api da biblioteca segue exemplo:
-##### primeiro obtenha as funcoes hospedadas na biblioteca
+##### Get the functions hosted in the library
 ```python
 from softwareai_engine_library.EngineProcess.EgetTools import Egetoolsv2
 imported_tools = Egetoolsv2(functionstools = ['autosave', 'autobuildpdf'])
 
 ```
-##### tenha em mente que imported_tools é uma lista de functions tools pronta para ir para tools
+##### keep in mind that import_tools is a list of tool functions ready to go to tools
 ```python
 
 def run_sync(agent, input):
