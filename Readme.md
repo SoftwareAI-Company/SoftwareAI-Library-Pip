@@ -1,5 +1,3 @@
-# 👥 Specialized AI Agents for Every Coding Task
-### Boost your development workflow with AI assistants trained specifically for code documentation, refactoring, reviews, and more.
 ![Version](https://img.shields.io/badge/version-1.0.19-blue)
 - [📖 SoftwareAI Repository](https://github.com/SoftwareAI-Company/SoftwareAI)
 - [📖 Library Web](https://github.com/SoftwareAI-Company/library-web)
