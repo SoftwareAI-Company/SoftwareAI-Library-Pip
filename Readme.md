@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.19-blue)
 - [📖 SoftwareAI Repository](https://github.com/SoftwareAI-Company/SoftwareAI)
-- [📖 Library Web](https://github.com/SoftwareAI-Company/library-web)
+- [📖 Library Web](https://github.com/SoftwareAI-Company/SoftwareAI-Library-Web)
 
 
 ##### Get the functions hosted in the library
